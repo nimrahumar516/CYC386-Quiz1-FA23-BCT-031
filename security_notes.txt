@@ -1,0 +1,3 @@
+Validate and sanitize all user input.
+Use strong authentication and authorization.
+Never hard-code passwords or secret keys.
